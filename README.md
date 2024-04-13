@@ -9,6 +9,8 @@ Golf ball pollution poses a significant environmental concern, often overlooked 
 
 ### Rock Forming Golf Ball
 
+![Golf Ball Rock](https://github.com/sourceduty/Golf_Balls/assets/123030236/1c8d5468-88cf-45c8-bcf4-53a1d1df5ce8)
+
 The core of the proposed golf ball could be constructed from a hydrophilic polymer, such as poly(acrylic acid), which is known for its water-absorbing properties. This polymer can swell significantly upon water absorption, which is crucial for initiating the desired chemical transformation.
 
 Surrounding this absorbent core, a reactive layer would contain calcium oxide (CaO), commonly known as quicklime. When exposed to water, CaO reacts exothermically to form calcium hydroxide (Ca(OH)₂). Over time, as the calcium hydroxide interacts with carbon dioxide (CO₂) dissolved in the water, it would gradually convert into calcium carbonate (CaCO₃), a hard, rock-like substance. This process is known for its role in the curing of concrete and could be harnessed to solidify the golf ball.
