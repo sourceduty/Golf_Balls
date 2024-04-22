@@ -47,8 +47,6 @@ It's important to note that such a simulation, while fascinating from a theoreti
 </details>
 
 #
-### Notes
-
 ### Potential Project Directions
 
 1. Explore additional biodegradable materials and assess their environmental impact.
