@@ -47,7 +47,7 @@ It's important to note that such a simulation, while fascinating from a theoreti
 </details>
 
 #
-### Potential Project Directions
+#### Potential Project Directions
 
 1. Explore additional biodegradable materials and assess their environmental impact.
 2. Design experimental setups for real-world efficacy and environmental impact tests.
